@@ -3,15 +3,12 @@
   "rules": [
     {
       "domain": [
-        "weixinsxy.com",
-        "wxapp.tc.qq.com"
-        "cloudflare.com"
+        "cloudflare.com",
+        "952712.xyz"
       ]
     },
     {
       "domain_suffix": [
-        ".weixinsxy.com",
-        ".wxapp.tc.qq.com",
         ".952712.xyz",
         ".cloudflare.com"
       ]

@@ -3,14 +3,12 @@
   "rules": [
     {
       "domain": [
-        "weixinsxy.com",
-        "wxapp.tc.qq.com"
+        "speedtest.net"
       ]
     },
     {
       "domain_suffix": [
-        ".weixinsxy.com",
-        ".wxapp.tc.qq.com"
+        ".speedtest.net"
       ]
     },
     {

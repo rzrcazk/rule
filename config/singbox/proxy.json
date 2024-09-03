@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "speedtest.net",
+        "macked.app"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".speedtest.net",
+        ".macked.app"
+      ]
+    },
+    {
+      "domain_keyword": [
+      ]
+    },
+    {
+      "ip_cidr": [
+        "129.226.3.47/32",
+        "162.62.163.63/32"
+      ]
+    }
+  ]
+}
